@@ -16,6 +16,7 @@ public class Event {
     private String description;
     private String registrationOptions;
     private String ticketType;
+    private String organizer;
 
     // Getters and Setters
 }
