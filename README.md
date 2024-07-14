@@ -3,11 +3,22 @@
 ## Overview
 This project is a simple event management application built with Spring Boot and JSP. It demonstrates basic CRUD operations, following the principles of code management learned in the course.
 
+## Git Workflow Example
+1. **Initial Commit and Push:**
+   - Cloned the repository, added files, committed with `git commit -m "Initial commit"`, and pushed to GitHub with `git push origin main`.
+
+2. **Feature Branch and Merge:**
+   - Created a new branch with `git checkout -b feature/add-event-description`.
+   - Made changes, committed, and pushed with `git push origin feature/add-event-description`.
+   - Opened a pull request on GitHub and merged it.
+
+3. **Sync Local Repository:**
+   - Pulled changes to the local repository with `git pull origin main`.
+
 ## Setup Instructions
 1. **Clone the Repository:**
    ```sh
    git clone <repository_url>
-   ```
 2. **Navigate to the Project Directory:**
    ```sh
    cd event-management
